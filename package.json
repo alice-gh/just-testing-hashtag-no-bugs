@@ -1,7 +1,7 @@
 {
   "name": "just-testing-hashtag-no-bugs",
   "main": "./lib/just-testing-hashtag-no-bugs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Just testing this",
   "keywords": [],
   "activationCommands": {
