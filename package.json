@@ -1,10 +1,9 @@
 {
   "name": "just-testing-hashtag-no-bugs",
   "main": "./lib/just-testing-hashtag-no-bugs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Just testing this",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "just-testing-hashtag-no-bugs:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
